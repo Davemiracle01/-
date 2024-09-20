@@ -1,12 +1,12 @@
 {
-    "name": "tdxclient-master",
+    "name": "𝐷𝛯𝐿𝛪𝛮𝑄𝑈𝛯𝛮𝑇",
     "version": "1.0.0",
     "description": "Private WhatsApp bot",
     "main": "index.js",
     "scripts": {
         "start": "node index.js"
     },
-    "author": "devorsixcore",
+    "author": "Dave",
     "license": "MIT",
     "dependencies": {
         "@whiskeysockets/baileys": "latest",
