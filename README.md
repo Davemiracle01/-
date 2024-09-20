@@ -5,13 +5,13 @@
   </a>
 </p>
 <p align="center">
-<a href="https://t.me/ednut_x"><img title="Author" src="https://img.shields.io/badge/𝐷𝛯𝐿𝛪𝛮𝑄𝑈𝛯𝛮𝑇-BOT-black?style=for-the-badge&logo=telegram"></a>
+<a href="https://t.me/dave"><img title="Author" src="https://img.shields.io/badge/𝐷𝛯𝐿𝛪𝛮𝑄𝑈𝛯𝛮𝑇-BOT-black?style=for-the-badge&logo=telegram"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/dave?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Ednut001?label=Followers&style=social"></a>
-<a href="https://github.com/dave/𝐷𝛯𝐿𝛪𝛮𝑄𝑈𝛯𝛮𝑇-v1-bug/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Ednut001/𝐷𝛯𝐿𝛪𝛮𝑄𝑈𝛯𝛮𝑇𝑆🔥-v1-bug?&style=social"></a>
-<a href="https://github.com/Ednut001/𝐷𝛯𝐿𝛪𝛮𝑄𝑈𝛯𝛮𝑇𝑆🔥-v1-bug/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Ednut001/𝐷𝛯𝐿𝛪𝛮𝑄𝑈𝛯𝛮𝑇-v1-bug?style=social"></a>
-<a href="https://github.com/Ednut001/𝐷𝛯𝐿𝛪𝛮𝑄𝑈𝛯𝛮𝑇-v1-bug/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Ednut001/𝐷𝛯𝐿𝛪𝛮𝑄𝑈𝛯𝛮𝑇-v1-bug?label=Watching&style=social"></a>
+<a href="https://github.com/Davemiracle01?tab=followers"><img title="Followers" src="https://img.shields.io/https://github.com/Davemiracle01?label=Followers&style=social"></a>
+<a href="https://github.com/dave/𝐷𝛯𝐿𝛪𝛮𝑄𝑈𝛯𝛮𝑇-v1-bug/stargazers/"><img title="Stars" src="https://img.shields.io/https://github.com/Davemiracle01/𝐷𝛯𝐿𝛪𝛮𝑄𝑈𝛯𝛮𝑇𝑆🔥-v1-bug?&style=social"></a>
+<a href="https://github.com/Davemiracle01/𝐷𝛯𝐿𝛪𝛮𝑄𝑈𝛯𝛮𝑇𝑆🔥-v1-bug/network/members"><img title="Fork" src="https://img.shields.io/https://github.com/Davemiracle01/𝐷𝛯𝐿𝛪𝛮𝑄𝑈𝛯𝛮𝑇-v1-bug?style=social"></a>
+<a href="https://github.com/Ednut001/𝐷𝛯𝐿𝛪𝛮𝑄𝑈𝛯𝛮𝑇-v1-bug/watchers"><img title="Watching" src="https://img.shields.io/github.com/Davemiracle01/𝐷𝛯𝐿𝛪𝛮𝑄𝑈𝛯𝛮𝑇-v1-bug?label=Watching&style=social"></a>
 </p>
 
 ####  
@@ -23,7 +23,7 @@
 
 1. Fork the repo
     <br>
-<a href='https://github.com/Ednut001/𝐷𝛯𝐿𝛪𝛮𝑄𝑈𝛯𝛮𝑇-v1-bug/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/Davemiracle01/𝐷𝛯𝐿𝛪𝛮𝑄𝑈𝛯𝛮𝑇-v1-bug/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 
@@ -65,15 +65,15 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
  
  ## For more deployment platform join channel for update
 
-SUPPORT CHANNEL: <a href="https://whatsapp.com/channel/0029VaefL9g0gcfLITSc841W"><img alt="WhatsApp" src="https://img.shields.io/badge/Join CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+SUPPORT CHANNEL: <a href="https://whatsapp.com/channel/0029VaigfxJJf05XCvghCC1j"><img alt="WhatsApp" src="https://img.shields.io/badge/Join CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 - Star ⭐ the repo if you like 𝐷𝛯𝐿𝛪𝛮𝑄𝑈𝛯𝛮𝑇𝑆🔥-BUG.
 
 
 ## `Main Dev` 
-<a href="https://github.com/Ednut001"><img src="https://i.imgur.com/QvvICDx.jpeg" width="250" height="250" alt="dave"/></a>
+<a href="https://github.com/Davemiracle01"><img src="https://i.imgur.com/QvvICDx.jpeg" width="250" height="250" alt="dave"/></a>
   
-`𝐷𝛯𝐿𝛪𝛮𝑄𝑈𝛯𝛮𝑇-V1-BUG - By Ednut001`
+`𝐷𝛯𝐿𝛪𝛮𝑄𝑈𝛯𝛮𝑇-V1-BUG - By dave`
 
 <h2 align="center">  Reminder
 </h2>
