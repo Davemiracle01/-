@@ -73,14 +73,15 @@ https://whatsapp.com/channel/0029VaigfxJJf05XCvghCC1j
 ## `Main Dev` 
 <a src="https://i.imgur.com/QvvICDx.jpeg" width="250" height="250" alt="dave"/></a>
   
-`𝐷𝛯𝐿𝛪𝛮𝑄𝑈𝛯𝛮𝑇-V1-BUG - By Ednut001`
+`𝐷𝛯𝐿𝛪𝛮𝑄𝑈𝛯𝛮𝑇-V1-BUG - By dave`
 
 <h2 align="center">  Reminder
 </h2>
-   Talk to me 
+    
 ## 
 - This bot is not made by `WhatsApp Inc.` So misusing the bot might `ban` your `WhatsApp account!`(Though your WhatsApp account can be unbanned only once.)
 - I am not responsible for banning your account.
 - Use at your own risk by keeping this warning in mind.
-- use this bot with wisdom if any report of misusing this im not responsible and you will bear for the consiquences 
-talk to me https://wa.me/254114127157
+- use this bot with wisdom if any report of misusing this im not responsible and you will bear for the consiquence
+-  
+talk to me 🤭https://wa.me/254114127157
