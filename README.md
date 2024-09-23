@@ -5,12 +5,12 @@
   </a>
 </p>
 <p align="center">
-<a href="https://t.me/ednut_x"><img title="Author" src="https://img.shields.io/badge/𝐷𝛯𝐿𝛪𝛮𝑄𝑈𝛯𝛮𝑇-BOT-black?style=for-the-badge&logo=telegram"></a>
+<a href="https://wa.me/254114127157"><img title="Author" src="https://img.shields.io/badge/𝐷𝛯𝐿𝛪𝛮𝑄𝑈𝛯𝛮𝑇-BOT-black?style=for-the-badge&logo=telegram"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/dave?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Ednut001?label=Followers&style=social"></a>
-<a href="https://github.com/dave/𝐷𝛯𝐿𝛪𝛮𝑄𝑈𝛯𝛮𝑇-v1-bug/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Ednut001/𝐷𝛯𝐿𝛪𝛮𝑄𝑈𝛯𝛮𝑇𝑆🔥-v1-bug?&style=social"></a>
-<a href="https://github.com/Ednut001/𝐷𝛯𝐿𝛪𝛮𝑄𝑈𝛯𝛮𝑇𝑆🔥-v1-bug/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Ednut001/𝐷𝛯𝐿𝛪𝛮𝑄𝑈𝛯𝛮𝑇-v1-bug?style=social"></a>
+<a href="https://github.com/Davemiracle01/-/tree/main?tab=readme-ov-file#%F0%9D%90%B7%F0%9D%9B%AF%F0%9D%90%BF%F0%9D%9B%AA%F0%9D%9B%AE%F0%9D%91%84%F0%9D%91%88%F0%9D%9B%AF%F0%9D%9B%AE%F0%9D%91%87-bug-1o"><img title="Followers" src="https://img.shields.io/github/followers/Ednut001?label=Followers&style=social"></a>
+<a href="https://github.com/dave/𝐷𝛯𝐿𝛪𝛮𝑄𝑈𝛯𝛮𝑇-v1-bug/stargazers/"><img title="Stars" src="https://github.com/Davemiracle01/-/tree/main?tab=readme-ov-file#%F0%9D%90%B7%F0%9D%9B%AF%F0%9D%90%BF%F0%9D%9B%AA%F0%9D%9B%AE%F0%9D%91%84%F0%9D%91%88%F0%9D%9B%AF%F0%9D%9B%AE%F0%9D%91%87-bug-1o"></a>
+<a href="https://github.com/Davemiracle01/𝐷𝛯𝐿𝛪𝛮𝑄𝑈𝛯𝛮𝑇𝑆🔥-v1-bug/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Ednut001/𝐷𝛯𝐿𝛪𝛮𝑄𝑈𝛯𝛮𝑇-v1-bug?style=social"></a>
 <a href="https://github.com/Ednut001/𝐷𝛯𝐿𝛪𝛮𝑄𝑈𝛯𝛮𝑇-v1-bug/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Ednut001/𝐷𝛯𝐿𝛪𝛮𝑄𝑈𝛯𝛮𝑇-v1-bug?label=Watching&style=social"></a>
 </p>
 
