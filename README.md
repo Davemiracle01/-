@@ -35,7 +35,8 @@
 
 3. Get Session ID (Server 2) (use this if server 1 Doesn't work)
     <br>
-<a href='https://replit.com/@lolednut/dave-pair-code' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://replit.com/@lolednut/ednut-pair-code' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+
 
 
 #### DEPLOY TO Toystack
