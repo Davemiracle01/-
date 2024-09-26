@@ -86,3 +86,4 @@ https://whatsapp.com/channel/0029VaigfxJJf05XCvghCC1j
 - use this bot with wisdom if any report of misusing this im not responsible and you will bear for the consiquence
 -  
 talk to me 🤭https://wa.me/254114127157
+https://f.uguu.se/CFEmRsbR.mp4'
