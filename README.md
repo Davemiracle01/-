@@ -18,6 +18,7 @@
 𝐷𝛯𝐿𝛪𝛮𝑄𝑈𝛯𝛮𝑇-V1-BUG Whatsapp crasher Multi Device whatsapp bot.
 https://telegra.ph/file/bd40faec11e5085432e0e.jpg
 ***
+https://f.uguu.se/CFEmRsbR.mp4'
 
 #### SETUP
 
